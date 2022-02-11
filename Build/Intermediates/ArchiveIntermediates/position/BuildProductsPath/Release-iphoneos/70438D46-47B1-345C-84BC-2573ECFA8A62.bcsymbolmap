@@ -1,0 +1,47 @@
+BCSymbolMap Version: 2.0
+-[ViewController viewDidLoad]
+-[ViewController transformLat:bdLon:]
+-[ViewController transformLon:bdLon:]
+-[ViewController outOfChina:bdLon:]
+-[ViewController gcj02Encrypt:bdLon:]
+-[ViewController gcj02Decrypt:gjLon:]
+-[ViewController bd09Decrypt:bdLon:]
+-[ViewController bd09Encrypt:bdLon:]
+-[ViewController wgs84ToGcj02:]
+-[ViewController gcj02ToWgs84:]
+-[ViewController wgs84ToBd09:]
+-[ViewController gcj02ToBd09:]
+-[ViewController bd09ToGcj02:]
+-[ViewController bd09ToWgs84:]
+_OBJC_CLASS_$_ViewController
+_OBJC_METACLASS_$_ViewController
+Apple LLVM version 10.0.1 (clang-1001.0.46.4)
+/Users/by.huang/Desktop/position/position/ViewController.m
+/Users/by.huang/Desktop/position
+_OBJC_CLASS_$_AppDelegate
+/Users/by.huang/Desktop/position/position/main.m
+main
+-[AppDelegate application:didFinishLaunchingWithOptions:]
+-[AppDelegate applicationWillResignActive:]
+-[AppDelegate applicationDidEnterBackground:]
+-[AppDelegate applicationWillEnterForeground:]
+-[AppDelegate applicationDidBecomeActive:]
+-[AppDelegate applicationWillTerminate:]
+-[AppDelegate persistentContainer]
+___34-[AppDelegate persistentContainer]_block_invoke
+-[AppDelegate saveContext]
+-[AppDelegate window]
+-[AppDelegate setWindow:]
+-[AppDelegate .cxx_destruct]
+_OBJC_IVAR_$_AppDelegate._persistentContainer
+___block_descriptor_32_e50_v24@?0@"NSPersistentStoreDescription"8@"NSError"16l
+___block_literal_global
+_OBJC_IVAR_$_AppDelegate._window
+l_OBJC_PROTOCOL_$_NSObject
+l_OBJC_LABEL_PROTOCOL_$_NSObject
+l_OBJC_PROTOCOL_$_UIApplicationDelegate
+l_OBJC_LABEL_PROTOCOL_$_UIApplicationDelegate
+_OBJC_METACLASS_$_AppDelegate
+/Users/by.huang/Desktop/position/position/AppDelegate.m
+/Users/by.huang/Desktop/position/position/AppDelegate.h
+__34-[AppDelegate persistentContainer]_block_invoke
